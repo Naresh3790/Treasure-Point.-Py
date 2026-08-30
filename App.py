@@ -45,7 +45,7 @@ STYLE & DESIGN:
 
 RESPONSIVE LAYOUT:
   - Breakpoints: mobile-first (min widths): px (mobile), px (tablet), px (desktop).
-  - Mobile-first: ensure the primary flows (Need Cash / Provide Cash) are fully usable on <420px screens.
+  - Mobile-first: ensure the primary flows (Need Cash / Provide Cash) are fully usable on px screens.
 
 PRIMARY PAGES & CONTENT (exact items to build)
   PUBLIC PAGES:
