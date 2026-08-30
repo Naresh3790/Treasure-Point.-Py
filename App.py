@@ -92,7 +92,7 @@ PRIMARY PAGES & CONTENT (exact items to build)
     - Need Cash (form UI)
       Heading: Need Cash
       Fields:
-        Amount Needed (numeric currency input, prefix a‚¹)
+        Amount Needed (numeric currency input, prefix a‚)
         Location (auto-detect or manual entry: City/Area/PIN)
         Availability: Immediately / Time-window (optional)
       Buttons: Submit Request
@@ -101,7 +101,7 @@ PRIMARY PAGES & CONTENT (exact items to build)
     - Provide Cash (form UI)
       Heading: Provide Cash
       Fields:
-        Amount Available (a‚¹)
+        Amount Available (a)
         Location (auto-detect or manual)
         Availability: Available Now / Available Later (time / date)
       Button: Provide Cash
@@ -110,9 +110,9 @@ PRIMARY PAGES & CONTENT (exact items to build)
       Heading: Match Found (when match exists)
       Display each match as a card:
         Example:
-          a‚¹500
+          a‚500
           Anil K.
-          ðŸ“ 0.5 km away
+          “ 0.5 km away
           Available Now
           Verification Badge (ae“ Verified)
           Rating: a­ 4.6
