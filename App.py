@@ -110,7 +110,7 @@ PRIMARY PAGES & CONTENT (exact items to build)
       Heading: Match Found (when match exists)
       Display each match as a card:
         Example:
-          a‚500
+          a 500
           Anil K.
           “ 0.5 km away
           Available Now
