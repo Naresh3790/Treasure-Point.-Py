@@ -368,7 +368,7 @@ DELIVERABLE UX COPY (EXACT TEXT)
       Mobile Number: 7702048269
       Email: gantanaresh89@gmail.com
   - Footer:
-      Â© 2026 Treasure Point. All Rights Reserved.
+      Ac 2026 Treasure Point. All Rights Reserved.
       Founder/Developer: Ganta Naresh
 
 IMPLEMENTATION NOTES FOR BUILDERS
