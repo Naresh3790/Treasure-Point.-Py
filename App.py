@@ -304,8 +304,8 @@ API ENDPOINTS (PROTOTYPE - example)
     POST /api/admin/seed-test-data
 
 SEED / TEST DATA (for demo)
-  - Create 6 test users across a sample city (Naresh â€” Nizamabad) with mix of verified/unverified.
-  - Create sample NEED_CASH and PROVIDE_CASH requests of varied amounts (â‚¹200, â‚¹500, â‚¹1000).
+  - Create 6 test users across a sample city (Naresh ae” Nizamabad) with mix of verified/unverified.
+  - Create sample NEED_CASH and PROVIDE_CASH requests of varied amounts (a 200, a‚500, a‚1000).
   - Create simulated matches and transactions to demonstrate flows.
 
 SIMULATED PAYMENT FLOW (PROTOTYPE)
