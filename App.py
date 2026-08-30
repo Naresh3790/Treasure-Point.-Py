@@ -44,7 +44,7 @@ STYLE & DESIGN:
   - Accessibility: color contrast >= 4.5:1 for text, focus outlines, label all form controls, ARIA attributes for dynamic content.
 
 RESPONSIVE LAYOUT:
-  - Breakpoints: mobile-first (min widths): 375px (mobile), 768px (tablet), 1024px (desktop).
+  - Breakpoints: mobile-first (min widths): px (mobile), px (tablet), px (desktop).
   - Mobile-first: ensure the primary flows (Need Cash / Provide Cash) are fully usable on <420px screens.
 
 PRIMARY PAGES & CONTENT (exact items to build)
