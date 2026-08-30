@@ -92,7 +92,7 @@ PRIMARY PAGES & CONTENT (exact items to build)
     - Need Cash (form UI)
       Heading: Need Cash
       Fields:
-        Amount Needed (numeric currency input, prefix a‚)
+        Amount Needed (numeric currency input, prefix a)
         Location (auto-detect or manual entry: City/Area/PIN)
         Availability: Immediately / Time-window (optional)
       Buttons: Submit Request
