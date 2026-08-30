@@ -172,7 +172,7 @@ UI BEHAVIOR & MICRO-FLOWS:
   - Matching notification: when a match is found, show an in-app toast + push notification simulation and a red/ gold animated badge on the Matches tab.
   - Match acceptance: once both users accept, show "Complete Exchange" flow with steps:
       1) Meet at neutral spot (UI guidance)
-      2 Provider receives mock UPI transfer confirmation (prototype)
+      2) Provider receives mock UPI transfer confirmation (prototype)
       3) Receiver confirms cash received -> mark transaction Completed
       For prototype, use simulated confirmations and allow manual marking for testing.
 
