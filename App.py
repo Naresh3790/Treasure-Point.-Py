@@ -115,7 +115,7 @@ PRIMARY PAGES & CONTENT (exact items to build)
            0.5 km away
           Available Now
           Verification Badge (ae Verified)
-          Rating: a­ 4.6
+          Rating:  4.6
         Buttons: [View Match] [Message] (message = prototype chat)
       Map: shows approximate location markers, user location as "You".
 
