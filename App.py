@@ -1,4 +1,4 @@
-PROJECT: Treasure Point  "Find Cash. Provide Cash. Exchange Securely."
+PROJECT: TreasurePoint  "Find Cash. Provide Cash. Exchange Securely."
 PRIMARY CONTACT:
   Name: Ganta Naresh
   Mobile: 7702048269
