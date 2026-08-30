@@ -54,7 +54,7 @@ PRIMARY PAGES & CONTENT (exact items to build)
       CTA buttons: [Need Cash] [Provide Cash]
       Visual: smartphone mockup showing the app screen
       Sections: How It Works (5-step), Features icons, Why Treasure Point, Safety, Contact
-      Footer: links + brand + Â© 2026 Treasure Point. Founder/Developer: Ganta Naresh
+      Footer: links + brand + Ac 2026 Treasure Point. Founder/Developer: Ganta Naresh
 
     - About Treasure Point
       Short description, advantages, applications (students, rural, merchants, travelers)
@@ -85,14 +85,14 @@ PRIMARY PAGES & CONTENT (exact items to build)
 
   AUTHENTICATED PAGES (User)
     - Dashboard (mobile-first)
-      Top greeting: "Welcome, {FirstName} ðŸ‘‹"
+      Top greeting: "Welcome, {FirstName} "
       Cards: Need Cash (current request amount), Provide Cash (current available), Active Requests count, Completed Transactions count, Wallet/Transaction Status (prototype label only)
       Quick actions: [Need Cash] [Provide Cash] [Find Match]
 
     - Need Cash (form UI)
       Heading: Need Cash
       Fields:
-        Amount Needed (numeric currency input, prefix â‚¹)
+        Amount Needed (numeric currency input, prefix a‚¹)
         Location (auto-detect or manual entry: City/Area/PIN)
         Availability: Immediately / Time-window (optional)
       Buttons: Submit Request
@@ -101,7 +101,7 @@ PRIMARY PAGES & CONTENT (exact items to build)
     - Provide Cash (form UI)
       Heading: Provide Cash
       Fields:
-        Amount Available (â‚¹)
+        Amount Available (a‚¹)
         Location (auto-detect or manual)
         Availability: Available Now / Available Later (time / date)
       Button: Provide Cash
@@ -110,12 +110,12 @@ PRIMARY PAGES & CONTENT (exact items to build)
       Heading: Match Found (when match exists)
       Display each match as a card:
         Example:
-          â‚¹500
+          a‚¹500
           Anil K.
           ðŸ“ 0.5 km away
           Available Now
-          Verification Badge (âœ“ Verified)
-          Rating: â­ 4.6
+          Verification Badge (ae“ Verified)
+          Rating: a­ 4.6
         Buttons: [View Match] [Message] (message = prototype chat)
       Map: shows approximate location markers, user location as "You".
 
