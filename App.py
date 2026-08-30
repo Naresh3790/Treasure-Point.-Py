@@ -3,7 +3,7 @@ PRIMARY CONTACT:
   Name: Ganta Naresh
   Mobile: 7702048269
   Email: gantanaresh89@gmail.com
-IMPORTANT NOTE (READ FIRST â€” FOR BUILDERS & DEVELOPERS):
+IMPORTANT NOTE (READ FIRST ” FOR BUILDERS & DEVELOPERS):
   - This project is a college/prototype fintech demonstration only. Do NOT enable real money flows, custody of funds, or UPI transactions without explicit legal, banking, and regulatory approvals.
   - NPCI/UPI cash-withdrawal is available only through authorized Business Correspondents or bank-approved touchpoints. Any real payment integration must be done only after consulting regulated payment partners and compliance/legal teams.
   - For the prototype, all payment flows must be simulated with mock confirmations. Real OTP/UPI endpoints must NOT be invoked in production without authorization.
