@@ -39,7 +39,7 @@ STYLE & DESIGN:
       Primary: filled, primary color background (#0B6E4F) with white text, border-radius 12px, 12px vertical padding. Shadow: small elevation.
       Secondary: white background, primary colored text, border.
   - Icons: use simple line icons (Heroicons or Material Icons).
-  - Card style: white cards, 14-16px inner padding, 8-12px border-radius, subtle drop shadow.
+  - Card style: white cards, px inner padding, border-radius, subtle drop shadow.
   - Animations: micro-interactions only (hover lift on cards, subtle pulse for "Match Found" badge, slide-in toast notifications).
   - Accessibility: color contrast >= 4.5:1 for text, focus outlines, label all form controls, ARIA attributes for dynamic content.
 
