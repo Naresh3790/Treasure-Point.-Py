@@ -352,7 +352,7 @@ DELIVERABLES (Acceptance criteria)
 
 ASSETS & GRAPHICS
   - Placeholder logo: "TREASURE POINT" wordmark + simple treasure/chest icon (use gold accent).
-  - Use a smartphone mockup for hero section â€” supply a simple PNG or allow builder to use a supplied screenshot.
+  - Use a smartphone mockup for hero section supply a simple PNG or allow builder to use a supplied screenshot.
   - Use minimal images; prefer SVG icons for crispness.
 
 DELIVERABLE UX COPY (EXACT TEXT)
