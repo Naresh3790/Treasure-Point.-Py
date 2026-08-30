@@ -37,7 +37,7 @@ STYLE & DESIGN:
       Body: Inter (400/500)
   - Buttons:
       Primary: filled, primary color background (#0B6E4F) with white text, border-radius 12px, 12px vertical padding. Shadow: small elevation.
-      Secondary: white background, primary colored text, 1px border.
+      Secondary: white background, primary colored text, border.
   - Icons: use simple line icons (Heroicons or Material Icons).
   - Card style: white cards, 14-16px inner padding, 8-12px border-radius, subtle drop shadow.
   - Animations: micro-interactions only (hover lift on cards, subtle pulse for "Match Found" badge, slide-in toast notifications).
